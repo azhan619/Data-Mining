@@ -1,0 +1,1 @@
+Efficient Apriori algorithm to mine all the frequent itemsets and their Functional dependencies
